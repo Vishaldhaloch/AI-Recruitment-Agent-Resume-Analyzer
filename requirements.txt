@@ -1,0 +1,26 @@
+
+# UI & Utilities
+pandas==2.1.4
+streamlit==1.31.0
+# rest of your packages
+
+
+streamlit==1.31.0
+# pandas==2.1.4
+python-dotenv==1.0.0
+matplotlib==3.8.2
+
+# PDF Parsing
+pypdf2==3.0.1
+
+# Vector DB
+faiss-cpu==1.7.4
+
+# Transformers & HuggingFace Embeddings
+transformers
+sentence-transformers
+torch  # required by sentence-transformers
+langchain
+langchain-core
+langchain-community
+langchain-groq
